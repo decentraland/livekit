@@ -32,7 +32,7 @@ require (
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/ory/dockertest/v3 v3.12.0
 	github.com/pion/datachannel v1.5.10
-	github.com/pion/dtls/v3 v3.0.8
+	github.com/pion/dtls/v3 v3.1.0
 	github.com/pion/ice/v4 v4.0.13
 	github.com/pion/interceptor v0.1.42
 	github.com/pion/rtcp v1.2.16
@@ -67,6 +67,7 @@ require (
 	github.com/go-viper/mapstructure/v2 v2.1.0 // indirect
 	github.com/moby/sys/user v0.3.0 // indirect
 	github.com/nyaruka/phonenumbers v1.6.5 // indirect
+	github.com/pion/transport/v4 v4.0.1 // indirect
 	go.opentelemetry.io/auto/sdk v1.2.1 // indirect
 	go.opentelemetry.io/otel v1.38.0 // indirect
 	go.opentelemetry.io/otel/metric v1.38.0 // indirect
